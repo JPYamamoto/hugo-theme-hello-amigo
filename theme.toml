@@ -1,17 +1,17 @@
-name = "hello-friend-ng"
+name = "hello-amigo"
 license = "MIT"
-licenselink = "https://github.com/rhazdon/hugo-theme-hello-friend-ng/blob/master/LICENSE.md"
-description = "A simple theme for Hugo. That's it."
-tags = ["blog", "clean", "customizable", "dark", "highlighting", "light", "minimal", "monochromatic", "multilingual", "personal", "responsive", "simple", "technical"]
+licenselink = "https://github.com/JPYamamoto/hugo-theme-hello-amigo/blob/master/LICENSE.md"
+description = "A simple theme for Hugo with customizability in mind."
+tags = ["blog", "clean", "customizable", "dark", "highlighting", "light", "minimal", "monochromatic", "multilingual", "personal", "responsive", "simple", "technical", "google-analytics", "fast"]
 features = ["blog", "shortcode", "syntax highlighting"]
 min_version = 0.30
 
 [author]
-  name = "Djordje Atlialp"
-  homepage = "https://atlialp.com"
-  twitter = "https://twitter.com/rhazdon"
+  name = "Juan Pablo Yamamoto"
+  homepage = "https://jpyamamoto.com"
+  twitter = "https://twitter.com/JPYamamoto9"
 
 [original]
-  name = "hello-friend"
-  homepage = "https://github.com/panr/hugo-theme-hello-friend"
-  repo = "https://github.com/panr/hugo-theme-hello-friend"
+  name = "hello-friend-ng"
+  homepage = "https://github.com/rhazdon/hugo-theme-hello-friend-ng"
+  repo = "https://github.com/rhazdon/hugo-theme-hello-friend-ng"

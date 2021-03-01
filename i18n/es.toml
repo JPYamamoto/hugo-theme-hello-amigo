@@ -36,4 +36,4 @@ one   = "Una Palabra"
 other = "{{ .Count }} Palabras"
 
 [lastModified]
-other = "Ultima actualización"
+other = "Última actualización"
