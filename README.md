@@ -1,10 +1,12 @@
-# Hello Friend NG
+# Hello Amigo
 
-![Hello Friend NG](https://dsh.re/d914c)
+![Hello Amigo](https://dsh.re/d914c)
 
 ## General informations
 
-This theme was highly inspired by the [hello-friend](https://github.com/panr/hugo-theme-hello-friend) and [hermit](https://github.com/Track3/hermit). A lot of kudos for their great work.
+This theme is a fork from [Hello Friend NG](https://github.com/rhazdon/hugo-theme-hello-friend-ng) developed by [rhazdon](https://github.com/rhazdon). Thank you so much for your work.
+
+The fork comes as the result of wanting to add greater customization capabilities to the theme, not all of which align themselves with the principles of the original theme (such as being able to toggle between light-dark colors).
 
 ---
 ## Table of Contents
@@ -27,7 +29,7 @@ This theme was highly inspired by the [hello-friend](https://github.com/panr/hug
 ---
 ## Features
 
-- Theming: **dark/light mode**, depending on your system preferences
+- Theming: **dark/light mode**, depending on user preference.
 - Great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
 - Nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
 - An easy way to modify the theme with Hugo tooling
@@ -35,6 +37,7 @@ This theme was highly inspired by the [hello-friend](https://github.com/panr/hug
 - Support for social icons
 - Support for sharing buttons
 - Support for [Commento](https://commento.io)
+- Support for math typesetting through [KaTeX](https://katex.org/)
 
 
 ## How to start
